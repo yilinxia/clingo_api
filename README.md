@@ -1,4 +1,7 @@
 # Clingo_API
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yilinxia/clingo_api/HEAD)
+
 This repo aims to help us understanding the clingoAPI https://potassco.org/clingo/python-api/5.4/ then we can properly 
 - use clingo in python
 - use pythin in clingo
